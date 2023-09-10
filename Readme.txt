@@ -63,6 +63,6 @@ Paste Group id
 Paste units
 
 
-Just have Fun!
+Have Fun!
 
 
